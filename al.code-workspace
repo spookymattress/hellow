@@ -7,5 +7,7 @@
       "path": "hellow"
     }
   ],
-  "settings": {}
+  "settings": {
+    "al.showHomeAtStartup": "Always"
+  }
 }
